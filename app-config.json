@@ -98,17 +98,17 @@
         "our_live_counts": {
           "counts": [
             {
-              "header": "2",
+              "header": "9",
               "subHeader": "Live Projects",
               "background": "#46c676"
             },
             {
-              "header": "50",
+              "header": "315",
               "background": "#bb7f2d",
               "subHeader": "Acres of land cultivated"
             },
             {
-              "header": "22000",
+              "header": "135000",
               "background": "#c2c455",
               "subHeader": "No. of saplings planted"
             }
